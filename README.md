@@ -1,4 +1,3 @@
-
 # Emotion Dataset Analysis
 The process for classifying text in the Emotion Dataset, which is based upon various algorithms and models of neural network, is described in this comprehensive documentation. The objective is to classify the emotions which have been reported in text comments and assess how different approaches are performing.
 
@@ -8,7 +7,6 @@ In Natural Language Processing, it is a key task to classify text according to t
 
 ## Data Loading and Preprocessing
  Training, testing and validation data are presented in a dataset that is accompanied by comments matching the appropriate emotion labels. The preprocessing steps include:
-
 * Reading and loading data in the files,
 * Removing stopwords from text,
 * Text Vectorization.
@@ -62,8 +60,7 @@ Training history plot showing train accuracy and validation accuracy per epoch.
 ![](https://github.com/me-sajal/Emotion-Analysis/blob/main/evaluation_outputs_images/train_val_accuraacy.png?raw=true)
 
 * Confusion Matrix
-  
-![](https://github.com/me-sajal/Emotion-Analysis/blob/main/evaluation_outputs_images/lstm%20cm.PNG?raw=true)
+  ![](https://github.com/me-sajal/Emotion-Analysis/blob/main/evaluation_outputs_images/lstm%20cm.PNG?raw=true)
 
 
 # Conclusion
