@@ -61,7 +61,7 @@ Training history plot showing train loss and validation loss  per epoch.
 Training history plot showing train accuracy and validation accuracy per epoch.
 ![](https://github.com/me-sajal/Emotion-Analysis/blob/main/evaluation_outputs_images/train_val_accuraacy.png?raw=true)
 
-* Confusion Matrix\\
+* Confusion Matrix\
   
 ![](https://github.com/me-sajal/Emotion-Analysis/blob/main/evaluation_outputs_images/lstm%20cm.PNG?raw=true)
 
