@@ -62,7 +62,7 @@ Training history plot showing train accuracy and validation accuracy per epoch.
 ![](https://github.com/me-sajal/Emotion-Analysis/blob/main/evaluation_outputs_images/train_val_accuraacy.png?raw=true)
 
 * Confusion Matrix
-![](https://github.com/me-sajal/Emotion-Analysis/blob/main/evaluation_outputs_images/lstm%20cm.png?raw=true)
+![](https://github.com/me-sajal/Emotion-Analysis/blob/main/evaluation_outputs_images/lstm%20cm.PNG?raw=true)
 
 
 # Conclusion
